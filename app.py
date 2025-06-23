@@ -34,8 +34,8 @@ st.markdown('<div class="title">📝 Word Count Dictionary Generator</div>', uns
 st.caption("Created by **Prasad Parjane** | Demo Project")
 
 # Description
-st.write("Paste or type your paragraph below. Click **Get Word Counts** to see how many times each word appears!")
-
+st.write("Paste or type your paragraph below.")
+st.write(" Click **Get Word Counts** to see how many times each word appears")
 # Input area
 paragraph = st.text_area("✍️ Enter your paragraph here:", height=200)
 
