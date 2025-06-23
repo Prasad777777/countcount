@@ -1,7 +1,7 @@
 import streamlit as st
 import string
 
-st.title("Word Count Dictionary Generator - By MrHafeez (for Demonstartion)")
+st.title("Word Count Dictionary Generator - By Prasad Parjane (for Demonstartion)")
 
 st.write(
     """
