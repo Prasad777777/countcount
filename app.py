@@ -18,7 +18,7 @@ st.markdown("""
     .title {
         text-align: center;
         font-size: 2.2em;
-        color: #4CAF50;
+        color: orange;
     }
     .footer {
         text-align: center;
